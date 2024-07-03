@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development For Dynamic Websites**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shubham-singh-437302256/](https://www.linkedin.com/in/shubham-singh-437302256/)
+- 👨‍💻 All of my Portfolio are available at [https://www.linkedin.com/in/shubham-singh-437302256/](https://www.linkedin.com/in/shubham-singh-437302256/)
 
 - 📫 How to reach me **Connectshubham815@gmail.com**
 
